@@ -33,7 +33,7 @@ The network architecture is the same across all three parts:
 |---|---|---|
 | From Scratch | Manual backpropagation | Gradient Descent |
 | Keras | Sequential API | Adam |
-| Scikit-learn | MLPClassifier | Adam |
+| Scikit-learn | MLPClassifier | lbfgs |
 
 ---
 
