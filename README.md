@@ -151,9 +151,3 @@ This assignment implemented a feedforward neural network in three ways to learn 
 3. **Scikit-learn:** MLPClassifier with MultiOutputClassifier wrapper. Simplest to implement for quick baselines.
 
 All three approaches successfully learned all five gate functions, demonstrating how the same neural network concept can be implemented at different levels of abstraction. The key takeaway is that while From Scratch gives full control and understanding, Keras and Scikit-learn offer speed and simplicity for real-world use.
-
----
-
-**Name:** Parimal Ahire  
-**PRN:** 202301040067  
-**Course:** Deep Learning Lab
